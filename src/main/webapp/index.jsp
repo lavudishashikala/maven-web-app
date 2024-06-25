@@ -4,7 +4,6 @@
 
   <h2>Welcome to Tomcat server Thank you</h2>
   
-  <h3> Have a great day!!! </h3>
 
 </body>
 </html>
